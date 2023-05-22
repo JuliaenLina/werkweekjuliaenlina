@@ -280,21 +280,20 @@ Ik vond het een hele leuke week met leuke mensen, en we hadden elke dag lekker w
     </div>
   </div>
   <br>
-  <h3 class="text-center">From The Blog</h3>  
+  <h3 class="text-center">Wie zijn wij?</h3>  
   <ul class="nav nav-tabs">
-    <li class="active"><a data-toggle="tab" href="#home">Mike</a></li>
-    <li><a data-toggle="tab" href="#menu1">Chandler</a></li>
-    <li><a data-toggle="tab" href="#menu2">Peter</a></li>
+    <li class="active"><a data-toggle="tab" href="#home">Julia</a></li>
+    <li><a data-toggle="tab" href="#menu1">Lina</a></li>
   </ul>
 
   <div class="tab-content">
     <div id="home" class="tab-pane fade in active">
-      <h2>Mike Ross, Manager</h2>
-      <p>Man, we've been on the road for some time now. Looking forward to lorem ipsum.</p>
+      <h2>Julia Tijhuis Ibarra</h2>
+      <p>16 jaar. Zit op het Montessori Lyceum Amsterdam in 4v6.</p>
     </div>
     <div id="menu1" class="tab-pane fade">
-      <h2>Chandler Bing, Guitarist</h2>
-      <p>Always a pleasure people! Hope you enjoyed it as much as I did. Could I BE.. any more pleased?</p>
+      <h2>Lina Weiss</h2>
+      <p>15 jaar. Zit op het Montessori Lyceum Amsterdam in 4v2.</p>
     </div>
     <div id="menu2" class="tab-pane fade">
       <h2>Peter Griffin, Bass player</h2>
