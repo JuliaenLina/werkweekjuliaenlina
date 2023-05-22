@@ -240,6 +240,7 @@
 Ik vond het een hele leuke week met leuke mensen, en we hadden elke dag lekker weer. Praag was heel mooi en ik hoop er snel weer naar toe te gaan! </p>
   <br>
   <div class="row">
+  <!-- Container (The Band Section) -->
   <div id="band" class="container text-center">
   <h3>SURFEN IN BRETAGNE</h3>
   <p><em>werkweek van Julia</em></p>
