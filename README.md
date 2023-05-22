@@ -215,7 +215,7 @@ Onze werkweken
       <div class="item">
         <img src="C:\Users\Lsw22\Downloads\surf2.jpg" alt="Bretagne" width="1200" height="700">
         <div class="carousel-caption">
-          <h3>LA</h3>
+          <h3>Bretagne</h3>
           <p>Hier ben ik aan het surfen!</p>
         </div>      
       </div>
