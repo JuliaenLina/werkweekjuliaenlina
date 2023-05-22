@@ -169,8 +169,7 @@
     <div class="collapse navbar-collapse" id="myNavbar">
       <ul class="nav navbar-nav navbar-right">
         <li><a href="#myPage">HOME</a></li>
-        <li><a href="#band">BAND</a></li>
-        <li><a href="#tour">TOUR</a></li>
+        <li><a href="#band">WERKWEKEN</a></li>
         <li><a href="#contact">CONTACT</a></li>
         <li class="dropdown">
           <a class="dropdown-toggle" data-toggle="dropdown" href="#">MORE
@@ -198,7 +197,7 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src=""C:\Users\Lsw22\Downloads\praag1.jpg"" alt="New York" width="1200" height="700">
+        <img src="![praag1](https://github.com/JuliaenLina/werkweekjuliaenlina/assets/133779103/415877d2-fa37-4e3e-92ad-00145fdbc1ad)" alt="New York" width="1200" height="700">
         <div class="carousel-caption">
           <h3>Praag</h3>
           <p>Het was heel mooi in Praag.</p>
