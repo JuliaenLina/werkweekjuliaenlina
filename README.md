@@ -51,7 +51,7 @@ Onze werkweken
   }
   .bg-1 {
     background: #2d2d30;
-    color: #bdbdbd;
+    color: #B0D8D1;
   }
   .bg-1 h3 {color: #fff;}
   .bg-1 p {font-style: italic;}
