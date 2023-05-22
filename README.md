@@ -216,7 +216,7 @@ Onze werkweken
         <img src="C:\Users\Lsw22\Downloads\surf2.jpg" alt="Bretagne" width="1200" height="700">
         <div class="carousel-caption">
           <h3>LA</h3>
-          <p>Even though the traffic was a mess, we had the best time playing at Venice Beach!</p>
+          <p>Hier ben ik aan het surfen!</p>
         </div>      
       </div>
     </div>
