@@ -213,7 +213,7 @@ Onze werkweken
       </div>
     
       <div class="item">
-        <img src="la.jpg" alt="Los Angeles" width="1200" height="700">
+        <img src="C:\Users\Lsw22\Downloads\surf2.jpg" alt="Bretagne" width="1200" height="700">
         <div class="carousel-caption">
           <h3>LA</h3>
           <p>Even though the traffic was a mess, we had the best time playing at Venice Beach!</p>
