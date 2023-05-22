@@ -197,7 +197,7 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="C:\Users\Lsw22\Downloads\praag1.jpg" alt="praag" width="1200" height="700">
+        <img src="C:\Users\Lsw22\Downloads\praag1.jpg" alt="Praag" width="1200" height="700">
         <div class="carousel-caption">
           <h3>Praag</h3>
           <p>Het was heel mooi in Praag.</p>
@@ -205,7 +205,7 @@
       </div>
 
       <div class="item">
-        <img src="C:\Users\Lsw22\Downloads\praag2.jpg" alt="Chicago" width="1200" height="700">
+        <img src="C:\Users\Lsw22\Downloads\praag2.jpg" alt="Praag" width="1200" height="700">
         <div class="carousel-caption">
           <h3>Praag</h3>
           <p>Hier liepen we naar de fietstour toe.</p>
@@ -247,41 +247,7 @@ Ik vond het een hele leuke week met leuke mensen, en we hadden elke dag lekker w
   <p>Zondagavond, om acht uur, stapte we op de bus naar Bretagne, Frankrijk. De volgende dag om half een 's middags kwamen we aan op de camping. We hadden ons eigen hutje (jammer genoeg zonder koelkast) en we hebben diezelfde dag nog gesurfd. De komende dagen hebben we nog vijf keer gesurfd. Op dag drie hielden we een kookwedstrijd. Wij maakte pita met gegrilde groente en als toetje chocolademousse. We werden vierde. We zijn oook nog een keer gaan wandelen met wat vrienden, toen hebben we de zonsondergang bekeken. Het was een zware week maar nog steeds heel erg gezellig! </p>
   <br>
   <div class="row">
-    <div class="col-sm-4">
-      <p class="text-center"><strong>Name</strong></p><br>
-      <a href="#demo" data-toggle="collapse">
-        <img src="bandmember.jpg" class="img-circle person" alt="Random Name" width="255" height="255">
-      </a>
-      <div id="demo" class="collapse">
-        <p>Guitarist and Lead Vocalist</p>
-        <p>Loves long walks on the beach</p>
-        <p>Member since 1988</p>
-      </div>
-    </div>
-    <div class="col-sm-4">
-      <p class="text-center"><strong>Name</strong></p><br>
-      <a href="#demo2" data-toggle="collapse">
-        <img src="bandmember.jpg" class="img-circle person" alt="Random Name" width="255" height="255">
-      </a>
-      <div id="demo2" class="collapse">
-        <p>Drummer</p>
-        <p>Loves drummin'</p>
-        <p>Member since 1988</p>
-      </div>
-    </div>
-    <div class="col-sm-4">
-      <p class="text-center"><strong>Name</strong></p><br>
-      <a href="#demo3" data-toggle="collapse">
-        <img src="bandmember.jpg" class="img-circle person" alt="Random Name" width="255" height="255">
-      </a>
-      <div id="demo3" class="collapse">
-        <p>Bass player</p>
-        <p>Loves math</p>
-        <p>Member since 2005</p>
-      </div>
-    </div>
-  </div>
-</div>
+   
 
 <!-- Container (TOUR Section) -->
 <div id="tour" class="bg-1">
