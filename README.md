@@ -1,4 +1,4 @@
-# Onze werkweken
+# 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -198,18 +198,18 @@
     <!-- Wrapper for slides -->
     <div class="carousel-inner" role="listbox">
       <div class="item active">
-        <img src="ny.jpg" alt="New York" width="1200" height="700">
+        <img src=""C:\Users\Lsw22\Downloads\praag1.jpg"" alt="New York" width="1200" height="700">
         <div class="carousel-caption">
-          <h3>New York</h3>
-          <p>The atmosphere in New York is lorem ipsum.</p>
+          <h3>Praag</h3>
+          <p>Het was heel mooi in Praag.</p>
         </div>      
       </div>
 
       <div class="item">
-        <img src="chicago.jpg" alt="Chicago" width="1200" height="700">
+        <img src=""C:\Users\Lsw22\Downloads\praag2.jpg"" alt="Chicago" width="1200" height="700">
         <div class="carousel-caption">
-          <h3>Chicago</h3>
-          <p>Thank you, Chicago - A night we won't forget.</p>
+          <h3>Praag</h3>
+          <p>Hier liepen we naar de fietstour toe.</p>
         </div>      
       </div>
     
