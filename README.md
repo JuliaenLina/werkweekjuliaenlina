@@ -14,7 +14,7 @@ Onze werkweken
   <style>
   body {
     font: 400 15px/1.8 Lato, sans-serif;
-    color: #9699FA;
+    color: #777;
   }
   h3, h4 {
     margin: 10px 0 30px 0;
