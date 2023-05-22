@@ -235,9 +235,10 @@
 
 <!-- Container (The Band Section) -->
 <div id="band" class="container text-center">
-  <h3>THE BAND</h3>
-  <p><em>We love music!</em></p>
-  <p>We have created a fictional band website. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+  <h3>PRAAG</h3>
+  <p><em>werkweek van Lina</em></p>
+  <p>Mijn werkweek in Praag, Thjecië, vond ik heel leuk. Maandagavond kwamen we aan, en dinsdag gingen we de hele dag de stad verkennen, beginnend met een fietstour. Woensdag  gingen we naar een Thjechiësche school en hebben we daar Thjechiësche kinderen ontmoet. Zij gaven ons een rondleiding door hun buurt. Voor de rest van die dag hebben we door de stad gelopen en lekker eten gegeten. Donderdag hadden we merendeels vrijetijd, we waren een uurtje in de bibliotheek. 
+Ik vond het een hele leuke week met leuke mensen, en we hadden elke dag lekker weer. Praag was heel mooi en ik hoop er snel weer naar toe te gaan!/p>
   <br>
   <div class="row">
     <div class="col-sm-4">
