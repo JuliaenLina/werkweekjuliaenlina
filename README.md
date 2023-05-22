@@ -241,6 +241,12 @@
 Ik vond het een hele leuke week met leuke mensen, en we hadden elke dag lekker weer. Praag was heel mooi en ik hoop er snel weer naar toe te gaan!/p>
   <br>
   <div class="row">
+    <div id="band" class="container text-center">
+  <h3>SURFEN IN BRETAGNE</h3>
+  <p><em>werkweek van Julia</em></p>
+  <p>Zondagavond, om acht uur, stapte we op de bus naar Bretagne, Frankrijk. De volgende dag om half een 's middags kwamen we aan op de camping. We hadden ons eigen hutje (jammer genoeg zonder koelkast) en we hebben diezelfde dag nog gesurfd. /p>
+  <br>
+  <div class="row">
     <div class="col-sm-4">
       <p class="text-center"><strong>Name</strong></p><br>
       <a href="#demo" data-toggle="collapse">
